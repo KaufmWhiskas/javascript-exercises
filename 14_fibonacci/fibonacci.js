@@ -9,12 +9,5 @@ const fibonacci = function(index) {
     return fibonacci[index]
 };
 
-console.log(fibonacci(0)); // 1
-console.log(fibonacci(1)); // 1
-console.log(fibonacci(2)); // 2
-console.log(fibonacci(3)); // 3
-console.log(fibonacci(4)); // 5
-console.log(fibonacci(5)); // 8
-
 // Do not edit below this line
 module.exports = fibonacci;
